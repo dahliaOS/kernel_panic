@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       style:
                           TextStyle(color: Color(0xFFFFFFFF), fontSize: 15.0)),
                   Text(
-                      'A system fault occured, and your system will reboot automatically.',
+                      'A system issue occured, and your system will restart automatically.',
                       style:
                           TextStyle(color: Color(0xFFFFFFFF), fontSize: 15.0))
                 ])),
