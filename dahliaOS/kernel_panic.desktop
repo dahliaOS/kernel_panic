@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Kernel Panic
+Exec=kernel_panic
+Terminal=false
+Icon=kernel_panic
+Type=Application
+Categories=Utility;

@@ -1,0 +1,10 @@
+{
+      "id": "io.dahliaos.kernel_panic",
+      "altName": "kernel_panic",
+      "realName": "Kernel Panic",
+      "version": "dahliaOS-latest",
+      "description": "Gracefully resolve system errors on dahliaOS",
+      "sourceCode": "https://github.com/dahliaOS/kernel_panic",
+      "hash": "DAP_AUTOMATION_PKGHASH",
+      "architecture": "x86_64"
+},
